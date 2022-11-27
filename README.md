@@ -43,13 +43,15 @@ const me = {
 
 #### Topic : PostgreSQL
 
-You can check all meta command on terminal.
+You can check all meta command on terminal after connecting Postgres.
 ```
-psql -?
+/?
+psql -? (on client)
 ```
 The command below is simillar but used to check SQL command.
 ```
-psql -h
+/h 
+psql -h (on client)
 ```
 
           
