@@ -39,14 +39,17 @@ const me = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgcknt-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :books: New knowledge today
+### :books: Knowledge Share for Today
 
 #### Topic : PostgreSQL
 
-How to configure settings in postgresql.conf in order to output all executed SQL into log. <br>
-set the parameter below...<br>
+You can check all meta command on terminal.
 ```
-log_statement = all
+psql -?
+```
+The command below is simillar but used to check SQL command.
+```
+psql -h
 ```
 
           
