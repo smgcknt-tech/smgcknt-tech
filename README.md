@@ -9,7 +9,7 @@ const me = {
 }
 ```
 
-### What I learned today 	🤘
+### New knowldge today 🤘
 
 #### Topic : PostgreSQL
 
