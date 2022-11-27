@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-###  👋 A little more about me...
+###  👋 A Little More About Me...
 
 ```javascript:introduction.js
 const me = {
