@@ -1,14 +1,12 @@
-### New knowledge today 🤘
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi. I'm konnichiwa sekai
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-#### Topic : PostgreSQL
-
-How to configure settings in postgresql.conf in order to output all executed SQL into log. <br>
-set the parameter below...<br>
-```
-log_statement = all
-```
-
-### A little more about me... 👋
+###  👋 A little more about me...
 
 ```javascript:introduction.js
 const me = {
@@ -19,7 +17,7 @@ const me = {
 }
 ```
 
-### Language and Tools (Experienced in work) 🤘
+### :hammer: Language and Tools (Experienced in work)
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -32,7 +30,23 @@ const me = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smgcknt-tech&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgcknt-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :books: New knowledge today
+
+#### Topic : PostgreSQL
+
+How to configure settings in postgresql.conf in order to output all executed SQL into log. <br>
+set the parameter below...<br>
+```
+log_statement = all
+```
 
           
