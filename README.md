@@ -9,5 +9,12 @@ const me = {
 }
 ```
 
-- [ ] item
-- [ ] checked item
+### What I learned today 👋
+
+#### Topic : PostgreSQL
+
+How to configure settings in postgresql.conf in order to output all executed SQL into log. <br>
+set the parameter below...<br>
+```
+log_statement = all
+```
