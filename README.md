@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-###  👋 A Little More About Me...
+###  👋 A Little More About Me :
 
 ```javascript:introduction.js
 const me = {
@@ -17,7 +17,7 @@ const me = {
 }
 ```
 
-### :hammer: Language and Tools (Experienced in work)
+### :hammer: Language and Tools (Experienced in work) :
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -39,7 +39,7 @@ const me = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgcknt-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :books: Knowledge Share for Today
+### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
 
