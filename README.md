@@ -8,3 +8,6 @@ const me = {
   hobbies:["Jogging","Chitchat"]
 }
 ```
+
+- [ ] item
+- [ ] checked item
