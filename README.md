@@ -44,15 +44,11 @@ const me = {
 
 #### Topic : PostgreSQL
 
-You can check all meta commands on terminal after connecting Postgres.
+POSIX Regular Expressions, !~* allows for querying string that does not match regular expression, case insensitively.
 ```
-/?
-psql -? (on client)
+SELECT name FROM t1 WHERE name !~* "John"
+You can get any name without "John" or "john" from t1 table.
 ```
-The command below is simillar but used to check SQL commands.
-```
-/h 
-psql -h (on client)
-```
+
 
           
