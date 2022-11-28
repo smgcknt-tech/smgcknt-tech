@@ -45,9 +45,9 @@ const me = {
 #### Topic : PostgreSQL
 
 POSIX Regular Expressions, !~* allows for querying string that does not match regular expression, case insensitively.
+You can get any name without "John" or "john" from the query below.
 ```
 SELECT name FROM t1 WHERE name !~* "John"
-You can get any name without "John" or "john" from t1 table.
 ```
 
 
