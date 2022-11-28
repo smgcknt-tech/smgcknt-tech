@@ -10,10 +10,10 @@
 
 ```javascript:introduction.js
 const me = {
+  portFolio:["https://smgcknt.com"],
   code: ["Javascript","Python","Java","SQL"],
   libsAndFrameworks:["React","Express.js","Flask"],
   cloud:["AWS"],
-  portFolio:["https://smgcknt.com"],
   hobbies:["Jogging","Chitchat"]
 }
 ```
