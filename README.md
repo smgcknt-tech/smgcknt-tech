@@ -14,7 +14,7 @@ const me = {
   code: ["Javascript","Python","Java","SQL"],
   libsAndFrameworks:["React","Express.js","Flask"],
   cloud:["AWS"],
-  hobbies:["Jogging with my wife","Chitchat"]
+  hobbies:["WalkWithMyWife","Chitchat"]
 }
 ```
 
