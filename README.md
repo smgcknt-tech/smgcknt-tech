@@ -48,6 +48,16 @@ However, table lock is so risky that you may incur a certain danger of performan
 ```
 LOCK TABLE [table_name] IN [lock_mode] MODE;
 ```
+Here's commonly used lock types.
+```
+EXCLUSIVE
+```
+Permits only read processing to the locked table for other transactions.
+```
+ACCESS EXCLUSIVE
+```
+Block all processing to the locked table for other transactions.
+This is the mode that is set by default if you omit the lock mode.
 
 
           
