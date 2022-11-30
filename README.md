@@ -43,11 +43,10 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-
-POSIX Regular Expressions, !~* allows for querying string that does not match regular expression, case insensitively.
-You can get any name without "John" or "john" from the query below.
+You can lock specific table with the command below.
+However, table lock is so risky that you may incur a certain danger of performance degradation.
 ```
-SELECT name FROM t1 WHERE name !~* "John"
+LOCK TABLE [table_name] IN [lock_mode] MODE;
 ```
 
 
