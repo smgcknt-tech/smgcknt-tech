@@ -43,21 +43,7 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-You can lock specific table with the command below.
-However, table lock is so risky that you may incur a certain danger of performance degradation.
+The following command allows all users to insert into sample table
 ```
-LOCK TABLE [table_name] IN [lock_mode] MODE;
+GRANT INSERT ON sample TO PUBLIC
 ```
-Here's commonly used lock types.
-```
-EXCLUSIVE
-```
-Permits only read processing to the locked table for other transactions.
-```
-ACCESS EXCLUSIVE
-```
-Block all processing to the locked table for other transactions.
-This is the mode that is set by default if you omit the lock mode.
-
-
-          
