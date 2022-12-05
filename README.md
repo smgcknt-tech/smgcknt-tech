@@ -43,7 +43,7 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-The following command allows all users to insert into sample table
+The following command allows you to create user in db with option.
 ```
-GRANT INSERT ON sample TO PUBLIC
+createuser -U user01 foo
 ```
