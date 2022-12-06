@@ -43,7 +43,8 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-The following command allows you to create user in db with option.
+The pg_catalog command shows you internal database info. 
 ```
-createuser -U user01 foo
+select * from [options below]
+pg_tables,pg_database,pg_user,pg_authid,pg_indexes
 ```
