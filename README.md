@@ -31,7 +31,7 @@ const me = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
@@ -43,8 +43,7 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-The pg_catalog command shows you internal database info. 
+VACUUM command reclaims unnecessary space including table indexes. Garbage reclamation means marking unwanted areas for analysis so that they can be reused.. 
 ```
-select * from [options below]
-pg_tables,pg_database,pg_user,pg_authid,pg_indexes
+VACUUM table_name
 ```
