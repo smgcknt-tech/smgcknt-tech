@@ -43,7 +43,9 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-Statistics　 are collected and updated
+ALTER SYSTEM is a SQL command that is new in version 9.4 to change server parameter values.
+The format is as follows
 ```
-vacuumdb -fz test
+ALTER SYSTEM SET param_name TO {xxx | DEFAULT};
+ALTER SYSTEM SET param_name = {xxx | DEFAULT};
 ```
