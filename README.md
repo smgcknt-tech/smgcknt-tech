@@ -43,7 +43,7 @@ const me = {
 ### :books: Knowledge Share for Today :
 
 #### Topic : PostgreSQL
-VACUUM command reclaims unnecessary space including table indexes. Garbage reclamation means marking unwanted areas for analysis so that they can be reused.. 
+Statistics　 are collected and updated
 ```
-VACUUM table_name
+vacuumdb -fz test
 ```
